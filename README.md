@@ -1,0 +1,1 @@
+# POC_SpringMVC_06_NOwebXml_Initializer2_customConfigClass
